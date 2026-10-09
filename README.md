@@ -18,3 +18,7 @@ Preparar la estructura inicial de un proyecto utlizando Python, Git y Github.
 Jose Manuel Garcia Gomez 
 
 ## Estado del proyecto 
+
+## Control de versiones 
+
+El Proyecto utiliza Git para control de versiones y Github como repositorio remoto. 
