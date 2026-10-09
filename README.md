@@ -16,3 +16,5 @@ Preparar la estructura inicial de un proyecto utlizando Python, Git y Github.
 ## Autor 
 
 Jose Manuel Garcia Gomez 
+
+## Estado del proyecto 
